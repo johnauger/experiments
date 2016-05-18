@@ -1,6 +1,0 @@
-version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
-options: "f6f69c9aaf0850de987b7608ca9fa3d9"
-build_time: [516914486, 449222000]
-inputs:
-  "/Users/johnauger/Developer/Projects/Experiments/experiments/experiments/ViewController.swift": [509648820, 0]
-  "/Users/johnauger/Developer/Projects/Experiments/experiments/experiments/AppDelegate.swift": [516914484, 0]
