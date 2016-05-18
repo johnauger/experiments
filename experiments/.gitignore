@@ -1,0 +1,15 @@
+.DS_Store
+build
+*.mode1v3
+*.pbxuser
+xcuserdata
+project.xcworkspace
+*.perspectivev3
+docset
+.DS_Store
+*.DS_Store
+
+artifacts/
+jenkins-build/
+local.properties
+fastlane/report.xml
