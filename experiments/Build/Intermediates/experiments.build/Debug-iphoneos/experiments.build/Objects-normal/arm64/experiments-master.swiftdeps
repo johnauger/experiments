@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "9ef3df3bfbc0c5ba8f8d9a90b75da4a3"
+build_time: [509667677, 194377000]
+inputs:
+  "/Users/johnauger/Developer/Projects/Experiments/experiments/experiments/AppDelegate.swift": [509667663, 0]
+  "/Users/johnauger/Developer/Projects/Experiments/experiments/experiments/ViewController.swift": [509648820, 0]
