@@ -12,9 +12,6 @@ import CoreLocation
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate, CLLocationManagerDelegate {
 
-    // TEST
-    // TEST
-
     var window: UIWindow?
     var lastRegion: CLRegion?
     
